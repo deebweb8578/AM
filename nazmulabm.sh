@@ -7,7 +7,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Jangan Recode Ya gayn
+# please Don't edite my tool 
 echo
 echo
 echo
@@ -46,7 +46,7 @@ echo $i"────────────────────────
 echo $i"|"$me"18"$i" |"$cy" CLEAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"ANM Miah"$bi"]"$me"======"$bi"["$i""Abm Mojahid""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
