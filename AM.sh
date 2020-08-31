@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     Termux Bangla YT"$i"         |"
+echo $i" |"$cy"     Technical Bangla ZM  "$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" YOUTUBE :"$ku" Termux Bangla YT"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" ANM Miah/Abm Mojahid"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [Abm mojahid/ANM MIAH]"$i"  |"
-echo $i" |"$cy"            ~ [cyber Researcher] [Abm Mojahid] [ANM Miah]"$i" |"
-echo $i" |"$pu" Contact WhatsApp :"$ku" +8801706434237"$i"             |"
-echo $i" |"$pu" Contact Gmail :"$ku" termuxbanglayt@gmail.com"$i"      |"
+echo $i" |"$pu" YOUTUBE :"$ku" Technical Bangla ZM  "$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" https://www.facebook.com/zihad.hossain36"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [Zihad Hossain/Mojahidul/Shahin]"$i"  |"
+echo $i" |"$cy"            ~ [cyber Researcher] [Zihad Hossain Rafi]"$i" |"
+echo $i" |"$pu" Contact Phone :"$ku" +8801318161264"$i"             |"
+echo $i" |"$pu" Contact Gmail :"$ku" technicalbanglazm@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -35,18 +35,18 @@ echo $i"|"$me" 8"$i" |"$cy" PROFILE GUARD FACEBOOK   "$i"|"$i"    |"$cy" F"$i" |
 echo $i"|"$me" 9"$i" |"$cy" REPORT FACEBOOK WORK     "$i"|"$i"    |"$cy" A"$i" |"
 echo $i"|"$me"10"$i" |"$cy" AUTO REACTION FACEBOOK   "$i"|"$i"    |"$cy" C"$i" |"
 echo $i"|"$me"11"$i" |"$cy" INFORMATION FACEBOOK     "$i"|"$i"    |"$cy" E"$i" |"
-echo $i"|"$me"12"$i" |"$cy" BOT KOMEN FACEBOOK       "$i"|"$i"    |"$cy" B"$i" |"
+echo $i"|"$me"12"$i" |"$cy" BOT COMMENT FACEBOOK       "$i"|"$i"  |"$cy" B"$i" |"
 echo $i"|"$me"13"$i" |"$cy" AUTOLIKE FACEBOOK        "$i"|"$i"    |"$cy" O"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" O"$i" |"
+echo $i"────────────────────────────────"$i"   |"$cy" O"$i" |"
 echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"$i"    |"$cy" K"$i" |"
 echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"$i"    ─────"
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"$i"    |"$cy" H"$i" |"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"$i"    |"$cy" A"$i" |"
-echo $i"────────────────────────────────"$i"    |"$cy" C"$i" |"
-echo $i"|"$me"18"$i" |"$cy" CLEAR/EXIT PROGRAM      "$i"|"$i"      |"$cy" K"$i" |"
+echo $i"────────────────────────────────"$i"   |"$cy" C"$i" |"
+echo $i"|"$me"18"$i" |"$cy" CLEAR/EXIT PROGRAM      "$i"|"$i"     |"$cy" K"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"ANM Miah"$bi"]"$me"======"$bi"["$i""Abm Mojahid""$bi"]"
+echo $me"┌==="$bi"["$i"Zihad Hossain"$bi"]"$me"======"$bi"["$i""Mojahidul Islam""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -252,11 +252,11 @@ figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy"Tool use koro and enjoy koro"
 sleep 2
-echo $i"creator : Nazmul Tufan"
+echo $i"creator : Zihad hossain Rafi"
 sleep 2
-echo $ku"WhatsApp :"$i" +8801706434237"
-echo $ku"Facebook :"$i" [Abm Mojahid][Creator: ANM Miah]"
+echo $ku"Phone :"$i" +8801842827520"
+echo $ku"Facebook :"$i" [Mojahidul][Creator: Zihad Hossain Rafi]"
 sleep 2
-echo $pur">> Thanks for all tool uset😍🤗 <<"
+echo $pur">> Thanks for all tool used😍🤗 <<"
 exit
 fi
