@@ -18,7 +18,7 @@ echo $i" |"$pu" YOUTUBE :"$ku" Technical Bangla ZM  "$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" https://www.facebook.com/zihad.hossain36"$i"                   |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [Zihad Hossain/Mojahidul/Shahin]"$i"  |"
 echo $i" |"$cy"            ~ [cyber Researcher] [Zihad Hossain Rafi]"$i" |"
-echo $i" |"$pu" Contact Phone :"$ku" +8801318161264"$i"             |"
+echo $i" |"$pu" Contact Phone :"$ku" +8801842827520"$i"             |"
 echo $i" |"$pu" Contact Gmail :"$ku" technicalbanglazm@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
