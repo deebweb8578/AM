@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     Technical Bangla ZM  "$i"         |"
+echo $i" |"$cy"     ZIHAD HOSSAIN RAFI  "$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" YOUTUBE :"$ku" Technical Bangla ZM  "$i"          |"
+echo $i" |"$pu" YOUTUBE :"$ku" https://youtu.be/OAns8Hyu3OI  "$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" https://www.facebook.com/zihad.hossain36"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [Zihad Hossain/Mojahidul/Shahin]"$i"  |"
+echo $i" |"$pu" DEVELOPED BY:"$cy"~ [Zihad Hossain Rafi]"$i"  |"
 echo $i" |"$cy"            ~ [cyber Researcher] [Zihad Hossain Rafi]"$i" |"
 echo $i" |"$pu" Contact Phone :"$ku" +8801842827520"$i"             |"
-echo $i" |"$pu" Contact Gmail :"$ku" technicalbanglazm@gmail.com"$i"      |"
+echo $i" |"$pu" Contact Gmail :"$ku" technicalzihad@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -46,7 +46,7 @@ echo $i"────────────────────────
 echo $i"|"$me"18"$i" |"$cy" CLEAR/EXIT PROGRAM      "$i"|"$i"     |"$cy" K"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"Zihad Hossain"$bi"]"$me"======"$bi"["$i""Mojahidul Islam""$bi"]"
+echo $me"┌==="$bi"["$i"Zihad Hossain Rafi"$bi"]"$me"======"$bi"["$i""Cyber Researcher""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -255,8 +255,8 @@ sleep 2
 echo $i"creator : Zihad hossain Rafi"
 sleep 2
 echo $ku"Phone :"$i" +8801842827520"
-echo $ku"Facebook :"$i" [Mojahidul][Creator: Zihad Hossain Rafi]"
+echo $ku"Facebook :"$i" [Cyber Researcher][Creator: Zihad Hossain Rafi]"
 sleep 2
-echo $pur">> Thanks for all tool used😍🤗 <<"
+echo $pur">> Thanks for all tool user😍🤗 <<"
 exit
 fi
